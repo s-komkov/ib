@@ -22,9 +22,9 @@
 
 *Дайте ответ в виде снимков экрана.*
 
-![Скриншот к заданию 2](/linux-hardening/images/2.jpeg)
+[Скриншот к заданию 2](/linux-hardening/images/2.jpeg)
 
-![Доработка](/linux-hardening/images/2_1.jpeg)
+[Доработка](/linux-hardening/images/2_1.jpeg)
 
 ------
 
