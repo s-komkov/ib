@@ -24,6 +24,8 @@
 
 ![Скриншот к заданию 2](/linux-hardening/images/2.jpeg)
 
+![Доработка](/linux-hardening/images/2_1.jpeg)
+
 ------
 
 ### Задание 3
